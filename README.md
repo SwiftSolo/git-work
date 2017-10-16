@@ -1,1 +1,3 @@
-## MY FIRST GIT LESSON
+# MY FIRST GIT LESSON
+
+## Some basic git knowledge.
